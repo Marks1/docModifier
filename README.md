@@ -3,8 +3,11 @@ An executable that provides the capability to modify the PDF and MS office docum
 
 
 Usage:
+
 MS Office document
+
 runner.exe docx|Pptx|Xlsx docNeedtobeModified.docx contentWillbeReplaced newContent
 
 PDF
+
 runner.exe pdf HTML_file target_PDF
